@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Apple Certificates (NEVER push to GitHub)
+*.pem
+*.cer
+*.pkpass
+certs/
+final_passes/
+pass.json
+ppmk-lock.yaml
+
+# Other
+.env
+.DS_Store
